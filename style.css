@@ -1,0 +1,14 @@
+#root {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.leftDiv {
+    width: 40%;
+    background-color: aquamarine;
+}
+
+.rightDiv {
+    width: 60%;
+    background-color:blueviolet;
+}
